@@ -1,7 +1,7 @@
 ﻿/*
 HIZ PROBLEMLERİ
 -	Yazılım, genel anlamda OOP, detayda ptr, const ve metoda nesne parametrelerini geçirme pratiği projesidir.
--	Matematik derslerinde sorulan 3 ayrı tip hız problemi çözer ve çözümü anlatır.
+-	Matematik derslerinde öğretilen 3 ayrı tip hız problemi çözer ve çözümü anlatır.
 -	Sonucu 2.78 saat vb. değil, saat ve dakika cinsinden verir,
 -	Dakika küsuratları yuvarlanır.
 -	Başta nesneye değer olarak atanan değerler, sonrasında switch/case yapısı kullanılarak
